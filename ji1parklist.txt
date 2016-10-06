@@ -1,0 +1,14 @@
+ilbe.com##DIV.bd:nth-child(8) > DIV:nth-child(2) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child
+ilbe.com##DIV.bd:nth-child(8) > DIV:nth-child(4) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child
+m.naver.com###nbp_da_img
+m.naver.com###_MM_WRAP_nmap_news_1
+m.naver.com###_MM_WRAP_nmap_news_2
+m.news.naver.com###adw_da
+m.blog.naver.com###POST_VIEW_BOTTOM_WEB
+ilbe.com###shoppingbox
+ilbe.com###madlayer_middle
+||cauly.co.kr^$third-party
+||admixer.co.kr^$third-party
+||nasmedia.co.kr^$third-party
+@@||cf.cdn.inmobi.com/ad/inmobi.js
+
