@@ -11,4 +11,4 @@ ilbe.com###madlayer_middle
 ||admixer.co.kr^$third-party
 ||nasmedia.co.kr^$third-party
 @@||cf.cdn.inmobi.com/ad/inmobi.js
-
+anigod.com,anigod.gryfindor.com$$script[tag-content="광고 차단 기능을 중단해주세요"]
