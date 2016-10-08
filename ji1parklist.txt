@@ -3,19 +3,27 @@
 m.naver.com###nbp_da_img
 m.naver.com###_MM_WRAP_nmap_news_1
 m.naver.com###_MM_WRAP_nmap_news_2
+m.naver.com###_MM_FLICK_FIRST_PANEL > DIV.wrap.id_news > DIV.grid1_wrap.news_wrap.brick-house > DIV.brick-vowel:first-child > DIV.grid1.grid_ad:nth-child(2)
+m.naver.com###_MM_FLICK_FIRST_PANEL > DIV.wrap.id_news > DIV.grid1_wrap.news_wrap.brick-house > DIV.brick-vowel:first-child > DIV.grid1.grid_ad:nth-child(3)
+m.naver.com###_MM_FLICK_FIRST_PANEL > DIV.wrap.id_news > DIV.grid1_wrap.news_wrap.brick-house > DIV.brick-vowel:first-child > DIV.grid1.id_uio_cd_fbanner:last-child
+! news.naver.com
+!-------------------------------------------------------------------------------!
 m.news.naver.com###adw_da
 m.news.naver.com###nbp_da_img
-m.blog.naver.com###POST_VIEW_BOTTOM_WEB
-m.naver.com###_MM_FLICK_FIRST_PANEL > DIV.wrap.id_news > DIV.grid1_wrap.news_wrap.brick-house > DIV.brick-vowel:first-child > DIV.grid1.grid_ad:nth-child(3)
 m.news.naver.com###ct > DIV.responsive_wrap:last-child > DIV.responsive_col1:first-child > DIV.r_group_comp.ad_box:nth-child(8)
-m.naver.com###_MM_FLICK_FIRST_PANEL > DIV.wrap.id_news > DIV.grid1_wrap.news_wrap.brick-house > DIV.brick-vowel:first-child > DIV.grid1.grid_ad:nth-child(2)
-m.naver.com###_MM_FLICK_FIRST_PANEL > DIV.wrap.id_news > DIV.grid1_wrap.news_wrap.brick-house > DIV.brick-vowel:first-child > DIV.grid1.id_uio_cd_fbanner:last-child
+m.blog.naver.com###POST_VIEW_BOTTOM_WEB
 ! ilbe.com
 !-------------------------------------------------------------------------------!
 ilbe.com###shoppingbox
 ilbe.com###madlayer_middle
 ilbe.com##DIV.bd:nth-child(8) > DIV:nth-child(2) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child
 ilbe.com##DIV.bd:nth-child(8) > DIV:nth-child(4) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child
+ilbe.com##DIV.bd:nth-child(9) > DIV:nth-child(2) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child
+ilbe.com##DIV.bd:nth-child(9) > DIV:nth-child(4) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child
+ilbe.com##DIV.bd:nth-child(9) > DIV:nth-child(7) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child
+ilbe.com###madlayer_bottom
+ilbe.com###ad_comment_dummy
+ilbe.com###layer_right_dummy
 ! adsites
 !-------------------------------------------------------------------------------!
 ||cauly.co.kr^$third-party
