@@ -5,6 +5,10 @@ m.naver.com###_MM_WRAP_nmap_news_1
 m.naver.com###_MM_WRAP_nmap_news_2
 m.news.naver.com###adw_da
 m.blog.naver.com###POST_VIEW_BOTTOM_WEB
+m.naver.com###_MM_FLICK_FIRST_PANEL > DIV.wrap.id_news > DIV.grid1_wrap.news_wrap.brick-house > DIV.brick-vowel:first-child > DIV.grid1.grid_ad:nth-child(3)
+m.news.naver.com###ct > DIV.responsive_wrap:last-child > DIV.responsive_col1:first-child > DIV.r_group_comp.ad_box:nth-child(8)
+m.naver.com###_MM_FLICK_FIRST_PANEL > DIV.wrap.id_news > DIV.grid1_wrap.news_wrap.brick-house > DIV.brick-vowel:first-child > DIV.grid1.grid_ad:nth-child(2)
+m.naver.com###_MM_FLICK_FIRST_PANEL > DIV.wrap.id_news > DIV.grid1_wrap.news_wrap.brick-house > DIV.brick-vowel:first-child > DIV.grid1.id_uio_cd_fbanner:last-child
 ilbe.com###shoppingbox
 ilbe.com###madlayer_middle
 ||cauly.co.kr^$third-party
@@ -12,3 +16,4 @@ ilbe.com###madlayer_middle
 ||nasmedia.co.kr^$third-party
 @@||cf.cdn.inmobi.com/ad/inmobi.js
 anigod.com,anigod.gryfindor.com$$script[tag-content="광고 차단 기능을 중단해주세요"]
+
