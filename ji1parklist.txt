@@ -27,6 +27,8 @@ ilbe.com###layer_right_dummy
 ! adsites
 !-------------------------------------------------------------------------------!
 ||cauly.co.kr^$third-party
+||ad.cauly.co.kr^$third-party
+||xconf.cauly.co.kr^$third-party
 ||admixer.co.kr^$third-party
 ||nasmedia.co.kr^$third-party
 @@||cf.cdn.inmobi.com/ad/inmobi.js
