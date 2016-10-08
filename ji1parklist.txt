@@ -1,4 +1,5 @@
 ! naver.com
+!-------------------------------------------------------------------------------!
 m.naver.com###nbp_da_img
 m.naver.com###_MM_WRAP_nmap_news_1
 m.naver.com###_MM_WRAP_nmap_news_2
@@ -10,15 +11,18 @@ m.news.naver.com###ct > DIV.responsive_wrap:last-child > DIV.responsive_col1:fir
 m.naver.com###_MM_FLICK_FIRST_PANEL > DIV.wrap.id_news > DIV.grid1_wrap.news_wrap.brick-house > DIV.brick-vowel:first-child > DIV.grid1.grid_ad:nth-child(2)
 m.naver.com###_MM_FLICK_FIRST_PANEL > DIV.wrap.id_news > DIV.grid1_wrap.news_wrap.brick-house > DIV.brick-vowel:first-child > DIV.grid1.id_uio_cd_fbanner:last-child
 ! ilbe.com
+!-------------------------------------------------------------------------------!
 ilbe.com###shoppingbox
 ilbe.com###madlayer_middle
 ilbe.com##DIV.bd:nth-child(8) > DIV:nth-child(2) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child
 ilbe.com##DIV.bd:nth-child(8) > DIV:nth-child(4) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child
 ! adsites
+!-------------------------------------------------------------------------------!
 ||cauly.co.kr^$third-party
 ||admixer.co.kr^$third-party
 ||nasmedia.co.kr^$third-party
 @@||cf.cdn.inmobi.com/ad/inmobi.js
 ! anigod.com
+!-------------------------------------------------------------------------------!
 anigod.com,anigod.gryfindor.com$$script[tag-content="광고 차단 기능을 중단해주세요"]
 
