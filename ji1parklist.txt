@@ -24,6 +24,7 @@ ilbe.com##DIV.bd:nth-child(9) > DIV:nth-child(7) > DIV.widgetBoxContainer.widget
 ilbe.com###madlayer_bottom
 ilbe.com###ad_comment_dummy
 ilbe.com###layer_right_dummy
+@@||ilbe.com/layouts/elkha_ilbe/js/ilbe_analytics.js
 ! adsites
 !-------------------------------------------------------------------------------!
 ||cauly.co.kr^$third-party
