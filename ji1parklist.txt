@@ -37,4 +37,5 @@ ilbe.com###layer_right_dummy
 ! anigod.com
 !-------------------------------------------------------------------------------!
 netmics.com,ani19.net,kflix.tv,anigod.com,anigod.gryfindor.com$$script[tag-content="광고 차단 기능을 중단해주세요"]
-
+!-------------------------------------------------------------------------------!
+m.dcinside.com###set_view_middle
