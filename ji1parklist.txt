@@ -44,3 +44,7 @@ m.dcinside.com###set_view_recomm
 m.dcinside.com###set_view_top
 m.dcinside.com###set_prevNextList_bottom
 m.dcinside.com###set_comment_bottom
+m.dcinside.com###set_list_bottom
+m.dcinside.com###set_list_top
+m.dcinside.com###android_layer > ARTICLE.dccontent.minor:last-child > ARTICLE.cont_gall:first-child > DIV:nth-child(2)
+m.dcinside.com###Minor_list_bottom
