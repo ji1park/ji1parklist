@@ -36,7 +36,7 @@ ilbe.com###layer_right_dummy
 @@||cf.cdn.inmobi.com/ad/inmobi.js
 ! anigod.com
 !-------------------------------------------------------------------------------!
-netmics.com,ani19.net,kflix.tv,anigod.com,anigod.gryfindor.com$$script[tag-content="광고 차단 기능을 중단해주세요"]
+netmics.com,ani19.net,kflix.tv,kflixtv.com,anigod.com,anigod.gryfindor.com$$script[tag-content="광고 차단 기능을 중단해주세요"]
 ! dcinside.com
 !-------------------------------------------------------------------------------!
 m.dcinside.com###set_view_middle
