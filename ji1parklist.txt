@@ -38,6 +38,7 @@ ilbe.com###openXdummy
 ! anigod.com
 !-------------------------------------------------------------------------------!
 netmics.com,ani19.net,kflix.tv,kflixtv.com,anigod.com,anigod.gryfindor.com$$script[tag-content="광고 차단 기능을 중단해주세요"]
+kflix.tv###episode > DIV:nth-child(6) > DIV.episode-video:last-child > DIV.episode-video-ad-container:nth-child(2)
 ! dcinside.com
 !-------------------------------------------------------------------------------!
 m.dcinside.com###set_view_middle
