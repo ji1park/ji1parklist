@@ -41,17 +41,9 @@ netmics.com,ani19.net,kflix.tv,kflixtv.com,anigod.com,anigod.gryfindor.com$$scri
 kflix.tv###episode > DIV:nth-child(6) > DIV.episode-video:last-child > DIV.episode-video-ad-container:nth-child(2)
 ! dcinside.com
 !-------------------------------------------------------------------------------!
-m.dcinside.com###set_view_middle
-m.dcinside.com###set_view_recomm
-m.dcinside.com###set_view_top
-m.dcinside.com###set_prevNextList_bottom
-m.dcinside.com###set_comment_bottom
-m.dcinside.com###set_list_bottom
-m.dcinside.com###set_list_top
-m.dcinside.com###android_layer > ARTICLE.dccontent.minor:last-child > ARTICLE.cont_gall:first-child > DIV:nth-child(2)
-m.dcinside.com###Minor_list_bottom
 m.dcinside.com###list_adver
-m.dcinside.com###search_layer > DIV.section_premium:nth-child(24) > STRONG:first-child
-m.dcinside.com###android_layer > ARTICLE.dccontent:last-child > DIV.section_premium:nth-child(6)
+m.dcinside.com###set_list_top
+m.dcinside.com###android_layer > ARTICLE.dccontent:last-child > DIV.section_premium:nth-child(6) > STRONG:first-child
+m.dcinside.com###android_layer > ARTICLE.dccontent.minor:last-child > ARTICLE.cont_gall:first-child > DIV:nth-child(2)
 m.dcinside.com###list_more_foot > DIV:nth-child(2)
 m.dcinside.com###list_more_foot > DIV:first-child
