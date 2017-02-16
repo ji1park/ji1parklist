@@ -47,3 +47,4 @@ m.dcinside.com###android_layer > ARTICLE.dccontent:last-child > DIV.section_prem
 m.dcinside.com###android_layer > ARTICLE.dccontent.minor:last-child > ARTICLE.cont_gall:first-child > DIV:nth-child(2)
 m.dcinside.com###list_more_foot > DIV:nth-child(2)
 m.dcinside.com###list_more_foot > DIV:first-child
+m.dcinside.com###set_comment_bottom
