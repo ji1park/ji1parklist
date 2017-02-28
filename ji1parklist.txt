@@ -39,12 +39,10 @@ ilbe.com###openXdummy
 !-------------------------------------------------------------------------------!
 netmics.com,ani19.net,kflix.tv,kflixtv.com,anigod.com,anigod.gryfindor.com$$script[tag-content="광고 차단 기능을 중단해주세요"]
 kflix.tv###episode > DIV:nth-child(6) > DIV.episode-video:last-child > DIV.episode-video-ad-container:nth-child(2)
+anigod.gryfindor.com##HEADER:first-child
+anigod.gryfindor.com##DIV.container:nth-child(2) > ARTICLE:first-child
 ! dcinside.com
 !-------------------------------------------------------------------------------!
 m.dcinside.com###list_adver
 m.dcinside.com###set_list_top
-m.dcinside.com###android_layer > ARTICLE.dccontent:last-child > DIV.section_premium:nth-child(6) > STRONG:first-child
-m.dcinside.com###android_layer > ARTICLE.dccontent.minor:last-child > ARTICLE.cont_gall:first-child > DIV:nth-child(2)
-m.dcinside.com###list_more_foot > DIV:nth-child(2)
-m.dcinside.com###list_more_foot > DIV:first-child
 m.dcinside.com###set_comment_bottom
