@@ -47,3 +47,4 @@ anigod.gryfindor.com##DIV.container:nth-child(2) > ARTICLE:first-child
 m.dcinside.com###list_adver
 m.dcinside.com###set_list_top
 m.dcinside.com###set_comment_bottom
+m.dcinside.com###js-popadblock > DIV.adblock-inner
