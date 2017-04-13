@@ -48,3 +48,4 @@ m.dcinside.com###list_adver
 m.dcinside.com###set_list_top
 m.dcinside.com###set_comment_bottom
 m.dcinside.com###js-popadblock > DIV.adblock-inner
+dcinside.com$$script[tag-content="광고차단"]
