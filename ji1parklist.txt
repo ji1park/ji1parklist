@@ -22,6 +22,7 @@ ilbe.com##DIV.bd:nth-child(9) > DIV:nth-child(2) > DIV.widgetBoxContainer.widget
 ilbe.com##DIV.bd:nth-child(9) > DIV:nth-child(4) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child
 ilbe.com##DIV.bd:nth-child(9) > DIV:nth-child(7) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child
 ilbe.com##DIV.bd:nth-child(9) > DIV:nth-child(3) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child
+ilbe.com##DIV.bd:nth-child(11) > DIV:nth-child(3) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child
 ilbe.com###madlayer_bottom
 ilbe.com###ad_comment_dummy
 ilbe.com###layer_right_dummy
