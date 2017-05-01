@@ -24,6 +24,7 @@ ilbe.com##DIV.bd:nth-child(9) > DIV:nth-child(7) > DIV.widgetBoxContainer.widget
 ilbe.com##DIV.bd:nth-child(9) > DIV:nth-child(3) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child
 ilbe.com##DIV.bd:nth-child(11) > DIV:nth-child(3) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child
 ilbe.com##DIV.bd:nth-child(7) > DIV:nth-child(3) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child > IMG
+ilbe.com##DIV.bd:nth-child(13) > DIV:nth-child(3) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child > IMG
 ilbe.com###madlayer_bottom
 ilbe.com###ad_comment_dummy
 ilbe.com###layer_right_dummy
@@ -44,6 +45,7 @@ netmics.com,ani19.net,kflix.tv,kflixtv.com,anigod.com,anigod.gryfindor.com$$scri
 kflix.tv###episode > DIV:nth-child(6) > DIV.episode-video:last-child > DIV.episode-video-ad-container:nth-child(2)
 anigod.gryfindor.com##HEADER:first-child
 anigod.gryfindor.com##DIV.container:nth-child(2) > ARTICLE:first-child
+kflix.gryfindor.com##DIV.container:nth-child(2) > ARTICLE:first-child
 ! dcinside.com
 !-------------------------------------------------------------------------------!
 m.dcinside.com###list_adver
