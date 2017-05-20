@@ -63,10 +63,10 @@ netmics.com,ani19.net,kflix.tv,kflixtv.com,anigod.com$$script[tag-content="광�
 ||deeppanda.net$$script[tag-content="광고 차단 기능을 중단해주세요"]
 ||deeppanda.io$$script[tag-content="광고 차단 기능을 중단해주세요"]
 
-||deepanda.com$script[tag-content="광고 차단 기능을 중단해주세요"]
-||deepanda.org$script[tag-content="광고 차단 기능을 중단해주세요"]
-||deepanda.netscript[tag-content="광고 차단 기능을 중단해주세요"]
-||deepanda.io$script[tag-content="광고 차단 기능을 중단해주세요"]
+||deepanda.com$$script[tag-content="광고 차단 기능을 중단해주세요"]
+||deepanda.org$$script[tag-content="광고 차단 기능을 중단해주세요"]
+||deepanda.net$$script[tag-content="광고 차단 기능을 중단해주세요"]
+||deepanda.io$$script[tag-content="광고 차단 기능을 중단해주세요"]
 ||libsakura.com$$script[tag-content="광고 차단 기능을 중단해주세요"]
 ! dcinside.com
 !-------------------------------------------------------------------------------!
