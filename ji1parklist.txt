@@ -44,8 +44,8 @@ ilbe.com##DIV.bd:nth-child(5) > DIV:nth-child(2)
 !-------------------------------------------------------------------------------!
 ###realssp_aahqfcn4umw00001_9147
 ###realssp_aahqfcn4umw00001_9146
-||deeppanda.org,||deeppanda.net,||deeppanda.io,||deeppanda.net##DIV.container:nth-child(2) > ARTICLE:first-child
-||deepanda.org,||deepanda.net,||deepanda.io,||deepanda.net##DIV.container:nth-child(2) > ARTICLE:first-child
+||deeppanda.com,||deeppanda.org,||deeppanda.net,||deeppanda.io,||deeppanda.net##DIV.container:nth-child(2) > ARTICLE:first-child
+||deepanda.com,||deepanda.org,||deepanda.net,||deepanda.io,||deepanda.net##DIV.container:nth-child(2) > ARTICLE:first-child
 ||libsakura.com##DIV.container:nth-child(2) > ARTICLE:first-child
 $$script[tag-content="광고 차단 기능을 중단해주세요"]
 ! dcinside.com
