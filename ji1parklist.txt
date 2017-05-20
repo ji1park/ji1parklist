@@ -42,7 +42,7 @@ ilbe.com##DIV.bd:nth-child(5) > DIV:nth-child(2)
 @@||cf.cdn.inmobi.com/ad/inmobi.js
 ! anigod.com
 !-------------------------------------------------------------------------------!
-anigod.gryfindor.com,wiki.libsakura.com,community.libsakura.com,forum.libsakura.com,blog.deepanda.net,netmics.com,ani19.net,kflix.tv,kflixtv.com,anigod.com$$script[tag-content="광고 차단 기능을 중단해주세요"]
+forum0.libsakura.com,blog.deepanda.org,anigod.gryfindor.com,wiki.libsakura.com,community.libsakura.com,forum.libsakura.com,blog.deepanda.net,netmics.com,ani19.net,kflix.tv,kflixtv.com,anigod.com$$script[tag-content="광고 차단 기능을 중단해주세요"]
 kflix.tv###episode > DIV:nth-child(6) > DIV.episode-video:last-child > DIV.episode-video-ad-container:nth-child(2)
 anigod.gryfindor.com##HEADER:first-child
 anigod.gryfindor.com##DIV.container:nth-child(2) > ARTICLE:first-child
@@ -60,7 +60,12 @@ wiki.libsakura.com##DIV.container:nth-child(2) > ARTICLE:first-child
 wiki.libsakura.com###realssp_aahqfcn4umw00001_9146
 wiki.libsakura.com###realssp_aahqfcn4umw00001_9147
 festyy.com##DIV.information-container:nth-child(5)
-
+blog.deepanda.org##DIV.container:nth-child(2) > ARTICLE:first-child
+blog.deepanda.org###realssp_aahqfcn4umw00001_9146
+blog.deepanda.org###realssp_aahqfcn4umw00001_9147
+forum0.libsakura.com##DIV.container:nth-child(2) > ARTICLE:first-child
+forum0.libsakura.com###realssp_aahqfcn4umw00001_9146
+forum0.libsakura.com###realssp_aahqfcn4umw00001_9147
 ! dcinside.com
 !-------------------------------------------------------------------------------!
 m.dcinside.com###list_adver
