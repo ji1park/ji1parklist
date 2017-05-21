@@ -56,7 +56,7 @@ ilbe.com##DIV.bd:nth-child(5) > DIV:nth-child(2)
 
 ||libsakura.com##DIV.container:nth-child(2) > ARTICLE:first-child
 
-||libsakura.com,blog.deepanda.org,blog.deepanda.net,blog.deeppanda.net,blog.deeppanda.org,blog.deepanda.io,netmics.com,ani19.net,kflix.tv,kflixtv.com,anigod.com$$script[tag-content="광고 차단 기능을 중단해주세요"]
+||libsakura.com,blog0.deepanda.com,blog.deepanda.org,blog.deepanda.net,blog.deeppanda.net,blog.deeppanda.org,blog.deepanda.io,netmics.com,ani19.net,kflix.tv,kflixtv.com,anigod.com$$script[tag-content="광고 차단 기능을 중단해주세요"]
 
 @@||anigod.com^$generichide
 
