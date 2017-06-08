@@ -16,22 +16,10 @@ m.blog.naver.com###POST_VIEW_BOTTOM_WEB
 !-------------------------------------------------------------------------------!
 ilbe.com###shoppingbox
 ilbe.com###madlayer_middle
-ilbe.com##DIV.bd:nth-child(8) > DIV:nth-child(2) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child
-ilbe.com##DIV.bd:nth-child(8) > DIV:nth-child(4) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child
-ilbe.com##DIV.bd:nth-child(9) > DIV:nth-child(2) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child
-ilbe.com##DIV.bd:nth-child(9) > DIV:nth-child(4) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child
-ilbe.com##DIV.bd:nth-child(9) > DIV:nth-child(7) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child
-ilbe.com##DIV.bd:nth-child(9) > DIV:nth-child(3) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child
-ilbe.com##DIV.bd:nth-child(11) > DIV:nth-child(3) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child
-ilbe.com##DIV.bd:nth-child(7) > DIV:nth-child(3) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child > IMG
-ilbe.com##DIV.bd:nth-child(13) > DIV:nth-child(3) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child > IMG
-ilbe.com##DIV.bd:nth-child(8) > DIV:nth-child(3) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child > IMG
-ilbe.com##DIV.bd:nth-child(10) > DIV:nth-child(2) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child
 ilbe.com###madlayer_bottom
 ilbe.com###ad_comment_dummy
 ilbe.com###layer_right_dummy
 ilbe.com###openXdummy
-ilbe.com##DIV.bd:nth-child(5) > DIV:nth-child(2)
 ilbe.com###madlayer_top
 ilbe.com###madlayer_top2
 ilbe.com###geniee_overlay
@@ -46,23 +34,13 @@ ilbe.com###geniee_overlay
 @@||cf.cdn.inmobi.com/ad/inmobi.js
 ! anigod.com
 !-------------------------------------------------------------------------------!
-###realssp_aahqfcn4umw00001_9147
-###realssp_aahqfcn4umw00001_9146
-||deeppanda.com##DIV.container:nth-child(2) > ARTICLE:first-child
-||deeppanda.org##DIV.container:nth-child(2) > ARTICLE:first-child
-||deeppanda.net##DIV.container:nth-child(2) > ARTICLE:first-child
-||deeppanda.io##DIV.container:nth-child(2) > ARTICLE:first-child
-
-||deepanda.com##DIV.container:nth-child(2) > ARTICLE:first-child
-||deepanda.org##DIV.container:nth-child(2) > ARTICLE:first-child
-||deepanda.net##DIV.container:nth-child(2) > ARTICLE:first-child
-||deepanda.io##DIV.container:nth-child(2) > ARTICLE:first-child
-
-||libsakura.com##DIV.container:nth-child(2) > ARTICLE:first-child
-
-||libsakura.com,blog0.deepanda.com,blog.deepanda.org,blog.deepanda.net,blog.deeppanda.net,blog.deeppanda.org,blog.deepanda.io,netmics.com,ani19.net,kflix.tv,kflixtv.com,anigod.com$$script[tag-content="광고 차단 기능을 중단해주세요"]
-
-@@||anigod.com^$generichide
+twiitch.website#%#window.canRunAds = !0;
+twiitch.website#$#.container > article:first-child {visibility:hidden!important;height:0px!important;padding:0px!important;}
+twiitch.website#@#.adsbygoogle
+@@/js/ads.exoclick.com.js^$~third-party,domain=twiitch.website
+@@/cdn-dgi/pe/bag2?r[]=*%2Fjs%2Fads.exoclick.com.js^$~third-party,domain=twiitch.website
+twiitch.website#@##banner_ad
+twiitch.website#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
 
 ! dcinside.com
 !-------------------------------------------------------------------------------!
