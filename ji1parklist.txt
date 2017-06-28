@@ -23,6 +23,9 @@ ilbe.com###openXdummy
 ilbe.com###madlayer_top
 ilbe.com###madlayer_top2
 ilbe.com###geniee_overlay
+ilbe.com##DIV.bd:nth-child(8) > DIV:nth-child(5) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child > IMG
+ilbe.com##DIV.bd:nth-child(8) > DIV:nth-child(3) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child > IMG
+ilbe.com##DIV.bd:nth-child(10) > DIV:nth-child(3) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child > IMG
 @@||ilbe.com/layouts/elkha_ilbe/js/ilbe_analytics.js
 ! adsites
 !-------------------------------------------------------------------------------!
