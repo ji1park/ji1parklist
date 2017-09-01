@@ -26,6 +26,7 @@ ilbe.com###geniee_overlay
 ilbe.com##DIV.bd:nth-child(8) > DIV:nth-child(5) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child > IMG
 ilbe.com##DIV.bd:nth-child(8) > DIV:nth-child(3) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child > IMG
 ilbe.com##DIV.bd:nth-child(10) > DIV:nth-child(3) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child > IMG
+ilbe.com###content > DIV.content_margin:first-child > DIV.viewDocument:nth-child(3) > DIV.boardRead:nth-child(7) > DIV.originalContent:first-child > DIV.readBody:nth-child(2) > DIV.contentBody > DIV.tCenter:last-child
 @@||ilbe.com/layouts/elkha_ilbe/js/ilbe_analytics.js
 ilbe.com###bannaerMainlay
 ilbe.com###asdsad
