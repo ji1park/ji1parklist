@@ -31,6 +31,9 @@ ilbe.com###content > DIV.content_margin:first-child > DIV.viewDocument:nth-child
 ilbe.com###bannaerMainlay
 ilbe.com###asdsad
 ilbe.com###bannaerMainlay2
+ilbe.com##div.bd:nth-child(6) > div:nth-child(14)
+ilbe.com##div.bd:nth-child(6) > div:nth-child(17)
+ilbe.com##div.bd:nth-child(6) > div:nth-child(15)
 ! adsites
 !-------------------------------------------------------------------------------!
 ||cauly.co.kr^$third-party
