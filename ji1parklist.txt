@@ -33,6 +33,7 @@ ilbe.com###asdsad
 ilbe.com###bannaerMainlay2
 ilbe.com##div.bd:nth-child(6) > div:nth-child(16) > img
 ilbe.com##div.bd:nth-child(6) > div:nth-child(14) > img
+ilbe.com##div:nth-child(8) > ad-image-node:nth-child(2)
 !-------------------------------------------------------------------------------!
 ||cauly.co.kr^$third-party
 ||ad.cauly.co.kr^$third-party
