@@ -44,6 +44,7 @@ ilbe.com###copy_layer_1 > div:last-child > a
 ilbe.com##div.bd:nth-child(6) > ul.lt:nth-child(5) > li:nth-child(11)
 ilbe.com##div.bd:nth-child(7) > div.co:nth-child(6) > div:nth-child(2)
 ilbe.com##div.bd:nth-child(7) > ul.lt:nth-child(6) > li:nth-child(12)
+ilbe.com##div.bd:nth-child(7) > div.co:nth-child(8) > div:nth-child(2)
 !-------------------------------------------------------------------------------!
 ||cauly.co.kr^$third-party
 ||ad.cauly.co.kr^$third-party
