@@ -45,6 +45,9 @@ ilbe.com##div.bd:nth-child(6) > ul.lt:nth-child(5) > li:nth-child(11)
 ilbe.com##div.bd:nth-child(7) > div.co:nth-child(6) > div:nth-child(2)
 ilbe.com##div.bd:nth-child(7) > ul.lt:nth-child(6) > li:nth-child(12)
 ilbe.com##div.bd:nth-child(7) > div.co:nth-child(8) > div:nth-child(2)
+ilbe.com##div.bd:nth-child(8) > div.co:nth-child(8) > div:nth-child(2)
+ilbe.com##div.bd:nth-child(7) > ul.gn > li:nth-child(11) > ul:first-child
+ilbe.com##div.bd:nth-child(7) > ul.lt:nth-child(4) > li:nth-child(10)
 !-------------------------------------------------------------------------------!
 ||cauly.co.kr^$third-party
 ||ad.cauly.co.kr^$third-party
@@ -76,3 +79,4 @@ m.dcinside.com##div.container:nth-child(3) > div.sec-wrap-sub > div.brick-wid:fi
 !-------------------------------------------------------------------------------!
 imaeil.com##TABLE:nth-child(5) > TBODY > TR:nth-child(2) > TD > TABLE > TBODY > TR:last-child > TD:first-child > DIV:first-child > IFRAME
 @@||wowtoken.info/|$elemhide,content,urlblock
+wowhead.com###video-alternate-position
