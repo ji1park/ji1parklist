@@ -53,6 +53,8 @@ ilbe.com###sponser_ad_0
 ilbe.com##div.bd:nth-child(8) > div.co:nth-child(6) > div:nth-child(2)
 ilbe.com##div.bd:nth-child(7) > ul.lt:nth-child(6) > li:nth-child(16)
 ilbe.com##div.bd:nth-child(7) > ul.lt:nth-child(8) > li:nth-child(16)
+ilbe.com##div.bd:nth-child(6) > ul.lt:nth-child(6) > li:nth-child(13)
+ilbe.com###sponser_ad_link_1
 !-------------------------------------------------------------------------------!
 ||cauly.co.kr^$third-party
 ||ad.cauly.co.kr^$third-party
