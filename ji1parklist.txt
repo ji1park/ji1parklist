@@ -6,6 +6,23 @@ m.naver.com###_MM_WRAP_nmap_news_2
 m.naver.com###_MM_FLICK_FIRST_PANEL > DIV.wrap.id_news > DIV.grid1_wrap.news_wrap.brick-house > DIV.brick-vowel:first-child > DIV.grid1.grid_ad:nth-child(2)
 m.naver.com###_MM_FLICK_FIRST_PANEL > DIV.wrap.id_news > DIV.grid1_wrap.news_wrap.brick-house > DIV.brick-vowel:first-child > DIV.grid1.grid_ad:nth-child(3)
 m.naver.com###_MM_FLICK_FIRST_PANEL > DIV.wrap.id_news > DIV.grid1_wrap.news_wrap.brick-house > DIV.brick-vowel:first-child > DIV.grid1.id_uio_cd_fbanner:last-child
+!---------!
+||ams.rmcnmv.naver.com^
+||apis.naver.com/rmcnmv/rmcvts/vts/trace/
+||serviceapi.rmcnmv.naver.com/etc/pc.nhn^
+||videost.nmv.naver.com/pt.html^
+apis.naver.com/rmcnmv/rmcams/item^
+m.naver.com##.cb_link
+m.news.naver.com##.media_end_linked
+m.news.naver.com##.media_journalistcard, ._my_feed_extension_wrapper
+m.search.naver.com##section.sp_power
+msearch.shopping.naver.com###_power_link
+msearch.shopping.naver.com##.sr_banner
+naver.com##div.end_ad_bottom
+naver.com##div.media_end_linked
+naver.com##div.media_journalistcard._my_feed_extension_wrapper
+news.naver.com##.pop_cont, ._factcheck_msg
+search.shopping.naver.com##.ad
 ! news.naver.com
 !-------------------------------------------------------------------------------!
 m.news.naver.com###adw_da
