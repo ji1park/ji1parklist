@@ -82,16 +82,6 @@ ilbe.com##div.bd:nth-child(9) > div:first-child > div.widgetBoxContainer.widgetB
 ||admixer.co.kr^$third-party
 ||nasmedia.co.kr^$third-party
 @@||cf.cdn.inmobi.com/ad/inmobi.js
-! anigod.com
-!-------------------------------------------------------------------------------!
-twiitch.website#%#window.canRunAds = !0;
-twiitch.website#$#.container > article:first-child {visibility:hidden!important;height:0px!important;padding:0px!important;}
-twiitch.website#@#.adsbygoogle
-@@/js/ads.exoclick.com.js^$~third-party,domain=twiitch.website
-@@/cdn-dgi/pe/bag2?r[]=*%2Fjs%2Fads.exoclick.com.js^$~third-party,domain=twiitch.website
-twiitch.website#@##banner_ad
-twiitch.website#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
-
 ! dcinside.com
 !-------------------------------------------------------------------------------!
 m.dcinside.com###list_adver
@@ -102,8 +92,10 @@ dcinside.com$$script[tag-content="광고차단"]
 m.dcinside.com##div.container:nth-child(3) > div.sec-wrap-sub > div.brick-wid:first-child > section.grid:nth-child(2) > div.adv-group
 m.dcinside.com##div.container:nth-child(3) > div.sec-wrap-sub > div.brick-wid > section.grid:nth-child(3) > div.gall-thum-btm:last-child > div.gall-thum-btm-inner > div.adv-groupin:nth-child(6)
 m.dcinside.com##div.container:nth-child(3) > div.sec-wrap-sub > div.brick-wid:first-child > section.gall-lst-group.grid:nth-child(3) > ul.gall-detail-lst:nth-child(6) > li.adv-inner:nth-child(8)
+*/api/_ad_search_link.php$match-case
 ! etcetra
 !-------------------------------------------------------------------------------!
 imaeil.com##TABLE:nth-child(5) > TBODY > TR:nth-child(2) > TD > TABLE > TBODY > TR:last-child > TD:first-child > DIV:first-child > IFRAME
 @@||wowtoken.info/|$elemhide,content,urlblock
 wowhead.com###video-alternate-position
+||fmkorea.com/_call/background_nickname.php
