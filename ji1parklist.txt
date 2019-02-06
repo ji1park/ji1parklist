@@ -76,6 +76,7 @@ ilbe.com##div.bd:nth-child(6) > ul.lt:nth-child(8) > li:nth-child(13)
 ilbe.com##div.bd:nth-child(8) > div:first-child > div.widgetBoxContainer.widgetBoxA > div.widgetBox > h3.widgetBoxHeader:first-child > a:last-child
 ilbe.com##div.bd:nth-child(9) > div:first-child > div.widgetBoxContainer.widgetBoxA > div.widgetBox > h3.widgetBoxHeader:first-child > a:last-child
 ilbe.com##div.bd:nth-child(7) > ul.lt:nth-child(6) > li:nth-child(13)
+ilbe.com##div.bd:nth-child(8) > div:nth-child(4) > div.widgetBoxContainer.widgetBoxA > div.widgetBox > h3.widgetBoxHeader:first-child > a:last-child
 !-------------------------------------------------------------------------------!
 ||cauly.co.kr^$third-party
 ||ad.cauly.co.kr^$third-party
