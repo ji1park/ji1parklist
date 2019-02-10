@@ -102,3 +102,4 @@ imaeil.com##TABLE:nth-child(5) > TBODY > TR:nth-child(2) > TD > TABLE > TBODY > 
 @@||wowtoken.info/|$elemhide,content,urlblock
 wowhead.com###video-alternate-position
 ||fmkorea.com/_call/background_nickname.php
+m.fmkorea.com###bd_189545458_0 > div.bd_lst_wrp:last-child > div.fm_best_widget._bd_mobile:nth-child(5) > ul > li:nth-child(4)
