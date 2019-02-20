@@ -103,5 +103,4 @@ imaeil.com##TABLE:nth-child(5) > TBODY > TR:nth-child(2) > TD > TABLE > TBODY > 
 wowhead.com###video-alternate-position
 ||fmkorea.com/_call/background_nickname.php
 m.fmkorea.com###bd_189545458_0 > div.bd_lst_wrp:last-child > div.fm_best_widget._bd_mobile:nth-child(5) > ul > li:nth-child(4)
-||*.cafe.daum.net/*/$replace=(<a href="(.|\s)*?)("\s)/\$1\?q=\$3\/i
-||*.news.naver.com/*$replace=likeRankingRead|shareRankingRead/read
+m.cafe.daum.net#%#window.addEventListener("load",function(){for(var b=document.querySelectorAll("a[href]"),c=b.length;c--;){var d=b[c],a=d.getAttribute("href");a&&(a+="?q=",d.setAttribute("href",a))}});
