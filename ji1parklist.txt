@@ -29,6 +29,8 @@ m.news.naver.com###adw_da
 m.news.naver.com###nbp_da_img
 m.news.naver.com###ct > DIV.responsive_wrap:last-child > DIV.responsive_col1:first-child > DIV.r_group_comp.ad_box:nth-child(8)
 m.blog.naver.com###POST_VIEW_BOTTOM_WEB
+m.news.naver.com#%#window.addEventListener("load",function(){document.querySelectorAll("a[href*='likeRankingRead.nhn']").forEach(function(a){a.href=a.href.replace("likeRankingRead.nhn","read.nhn")})});
+m.news.naver.com#%#window.addEventListener("load",function(){document.querySelectorAll("a[href*='shareRankingRead.nhn']").forEach(function(a){a.href=a.href.replace("shareRankingRead.nhn","read.nhn")})});
 ! ilbe.com
 !-------------------------------------------------------------------------------!
 ilbe.com###shoppingbox
@@ -104,4 +106,3 @@ wowhead.com###video-alternate-position
 ||fmkorea.com/_call/background_nickname.php
 m.fmkorea.com###bd_189545458_0 > div.bd_lst_wrp:last-child > div.fm_best_widget._bd_mobile:nth-child(5) > ul > li:nth-child(4)
 m.cafe.daum.net#%#window.addEventListener("load",function(){for(var b=document.querySelectorAll("a[href]"),c=b.length;c--;){var d=b[c],a=d.getAttribute("href");a&&(a+="?q=",d.setAttribute("href",a))}});
-||m.news.naver.com/*$replace=likeRankingRead|shareRankingRead/read
