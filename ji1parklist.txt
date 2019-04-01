@@ -33,53 +33,11 @@ m.news.naver.com#%#window.addEventListener("load",function(){document.querySelec
 m.news.naver.com#%#window.addEventListener("load",function(){document.querySelectorAll("a[href*='shareRankingRead.nhn']").forEach(function(a){a.href=a.href.replace("shareRankingRead.nhn","read.nhn")})});
 ! ilbe.com
 !-------------------------------------------------------------------------------!
-ilbe.com###shoppingbox
-ilbe.com###madlayer_middle
-ilbe.com###madlayer_bottom
-ilbe.com###ad_comment_dummy
-ilbe.com###layer_right_dummy
-ilbe.com###openXdummy
-ilbe.com###madlayer_top
-ilbe.com###madlayer_top2
-ilbe.com###geniee_overlay
-ilbe.com##DIV.bd:nth-child(8) > DIV:nth-child(5) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child > IMG
-ilbe.com##DIV.bd:nth-child(8) > DIV:nth-child(3) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child > IMG
-ilbe.com##DIV.bd:nth-child(10) > DIV:nth-child(3) > DIV.widgetBoxContainer.widgetBoxA > DIV.widgetBox > H3.widgetBoxHeader:first-child > A:last-child > IMG
-ilbe.com###content > DIV.content_margin:first-child > DIV.viewDocument:nth-child(3) > DIV.boardRead:nth-child(7) > DIV.originalContent:first-child > DIV.readBody:nth-child(2) > DIV.contentBody > DIV.tCenter:last-child
-@@||ilbe.com/layouts/elkha_ilbe/js/ilbe_analytics.js
-ilbe.com###bannaerMainlay
-ilbe.com###asdsad
-ilbe.com###bannaerMainlay2
-ilbe.com##div.bd:nth-child(6) > div:nth-child(16) > img
-ilbe.com##div.bd:nth-child(6) > div:nth-child(14) > img
-ilbe.com##div:nth-child(8) > ad-image-node:nth-child(2)
-ilbe.com##div.bd:nth-child(6) > div.co:nth-child(6) > div:nth-child(2)
-ilbe.com##div.bd:nth-child(6) > div.co:nth-child(8) > div:nth-child(2)
-ilbe.com###sponser_ad_link
-ilbe.com##div.bd:nth-child(6) > ul.lt:nth-child(5) > li:nth-child(10)
-ilbe.com##div.bd:nth-child(6) > ul.lt:nth-child(7) > li:nth-child(10)
-ilbe.com###\31 302179
-ilbe.com###copy_layer_1 > div:last-child > a
-ilbe.com##div.bd:nth-child(6) > ul.lt:nth-child(5) > li:nth-child(11)
-ilbe.com##div.bd:nth-child(7) > div.co:nth-child(6) > div:nth-child(2)
-ilbe.com##div.bd:nth-child(7) > ul.lt:nth-child(6) > li:nth-child(12)
-ilbe.com##div.bd:nth-child(7) > div.co:nth-child(8) > div:nth-child(2)
-ilbe.com##div.bd:nth-child(8) > div.co:nth-child(8) > div:nth-child(2)
-ilbe.com##div.bd:nth-child(7) > ul.gn > li:nth-child(11) > ul:first-child
-ilbe.com##div.bd:nth-child(7) > ul.lt:nth-child(4) > li:nth-child(10)
-ilbe.com##div.bd:nth-child(7) > ul.lt:nth-child(6) > li:nth-child(14)
-ilbe.com###sponser_ad_0
-ilbe.com##div.bd:nth-child(8) > div.co:nth-child(6) > div:nth-child(2)
-ilbe.com##div.bd:nth-child(7) > ul.lt:nth-child(6) > li:nth-child(16)
-ilbe.com##div.bd:nth-child(7) > ul.lt:nth-child(8) > li:nth-child(16)
-ilbe.com##div.bd:nth-child(6) > ul.lt:nth-child(6) > li:nth-child(13)
-ilbe.com###sponser_ad_link_1
-ilbe.com##div.bd:nth-child(6) > ul.lt:nth-child(8) > li:nth-child(13)
-ilbe.com##div.bd:nth-child(8) > div:first-child > div.widgetBoxContainer.widgetBoxA > div.widgetBox > h3.widgetBoxHeader:first-child > a:last-child
-ilbe.com##div.bd:nth-child(9) > div:first-child > div.widgetBoxContainer.widgetBoxA > div.widgetBox > h3.widgetBoxHeader:first-child > a:last-child
-ilbe.com##div.bd:nth-child(7) > ul.lt:nth-child(6) > li:nth-child(13)
-ilbe.com##div.bd:nth-child(8) > div:nth-child(4) > div.widgetBoxContainer.widgetBoxA > div.widgetBox > h3.widgetBoxHeader:first-child > a:last-child
-ilbe.com##div.bd:nth-child(10) > div:first-child > div.widgetBoxContainer.widgetBoxA > div.widgetBox > h3.widgetBoxHeader:first-child > a:last-child
+ilbe.com$$script[tag-content="mobonDivBanner_"][max-length="8000"]
+ilbe.com##div[style^="width:100%; text-align:center;padding:0;"]
+ilbe.com##a[href^="https://toon.at/donate/ilbe"]
+ilbe.com##li[style^="width:100%;height:100px;margin:auto;padding:0;text-align:center;display:inline-block;"]
+ilbe.com##li[id^="sponser_ad_0"]
 !-------------------------------------------------------------------------------!
 ||cauly.co.kr^$third-party
 ||ad.cauly.co.kr^$third-party
@@ -106,3 +64,4 @@ wowhead.com###video-alternate-position
 ||fmkorea.com/_call/background_nickname.php
 m.fmkorea.com###bd_189545458_0 > div.bd_lst_wrp:last-child > div.fm_best_widget._bd_mobile:nth-child(5) > ul > li:nth-child(4)
 m.cafe.daum.net#%#window.addEventListener("load",function(){for(var b=document.querySelectorAll("a[href]"),c=b.length;c--;){var d=b[c],a=d.getAttribute("href");a&&(a+="?q=",d.setAttribute("href",a))}});
+||youav.com/nb/bnl.php
