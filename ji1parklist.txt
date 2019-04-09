@@ -65,3 +65,10 @@ wowhead.com###video-alternate-position
 m.fmkorea.com###bd_189545458_0 > div.bd_lst_wrp:last-child > div.fm_best_widget._bd_mobile:nth-child(5) > ul > li:nth-child(4)
 m.cafe.daum.net#%#window.addEventListener("load",function(){for(var b=document.querySelectorAll("a[href]"),c=b.length;c--;){var d=b[c],a=d.getAttribute("href");a&&(a+="?q=",d.setAttribute("href",a))}});
 ||youav.com/nb/bnl.php
+m.inven.co.kr###topslideAd
+tvwang2.com,tvkim3.com###apno
+tvwang2.com,tvkim3.com###pobg
+tvwang2.com##div[class^="mab"]
+tvwang2.com,tvkim3.com##div[class^="ban"]
+tvkim3.com##div[class^="poba"]
+||img.tvkim3.com/banner/
