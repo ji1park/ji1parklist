@@ -4,6 +4,7 @@ m.naver.com###nbp_da_img
 m.naver.com###_MM_WRAP_nmap_news_1
 m.naver.com###_MM_WRAP_nmap_news_2
 m.naver.com###MM_NEWS_CHANNEL_PROMOTION_TOP_BANNER
+m.naver.com###_MM_FLICK_FIRST_PANEL > div.wrap.id_news > div.grid1_wrap.news_wrap.brick-house > div.brick-vowel:first-child > div.grid1.id_cui_urgent:first-child
 !---------!
 ||ams.rmcnmv.naver.com^
 ||apis.naver.com/rmcnmv/rmcvts/vts/trace/
@@ -51,6 +52,20 @@ m.dcinside.com###set_comment_bottom
 m.dcinside.com###js-popadblock > DIV.adblock-inner
 dcinside.com$$script[tag-content="광고차단"]
 */api/_ad_search_link.php$match-case
+! tvwang, tvkim
+!-------------------------------------------------------------------------------!
+tvwang2.com,tvkim3.com###apno
+tvwang2.com,tvkim3.com###pobg
+tvwang2.com##mab
+tvwang2.com,tvkim3.com##ban
+tvkim3.com##poba
+tvkim3.com##section:last-child > div.chat:nth-child(3) > div.bod:last-child > div.ban:last-child
+tvkim3.com##section:nth-child(13) > div.chan:first-child > div.bod:last-child > div.ban:last-child
+tvkim3.com##section:nth-child(13) > div.chan:first-child > div.bod:last-child > a.ban:nth-child(4)
+tvkim3.com##section:nth-child(13) > div.chan:first-child > div.bod:last-child > a.ban:nth-child(3)
+tvkim3.com##section:nth-child(13) > div.chan:first-child > div.bod:last-child > a.ban:nth-child(2)
+tvkim3.com##section:nth-child(13) > div.chan:first-child > div.bod:last-child > a.ban:first-child
+||img.tvkim3.com/banner/
 ! etcetra
 !-------------------------------------------------------------------------------!
 imaeil.com##TABLE:nth-child(5) > TBODY > TR:nth-child(2) > TD > TABLE > TBODY > TR:last-child > TD:first-child > DIV:first-child > IFRAME
@@ -61,9 +76,3 @@ m.fmkorea.com###bd_189545458_0 > div.bd_lst_wrp:last-child > div.fm_best_widget.
 m.cafe.daum.net#%#window.addEventListener("load",function(){for(var b=document.querySelectorAll("a[href]"),c=b.length;c--;){var d=b[c],a=d.getAttribute("href");a&&(a+="?q=",d.setAttribute("href",a))}});
 ||youav.com/nb/bnl.php
 m.inven.co.kr###topslideAd
-tvwang2.com,tvkim3.com###apno
-tvwang2.com,tvkim3.com###pobg
-tvwang2.com##div[class^="mab"]
-tvwang2.com,tvkim3.com##div[class^="ban"]
-tvkim3.com##div[class^="poba"]
-||img.tvkim3.com/banner/
