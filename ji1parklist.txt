@@ -3,9 +3,6 @@
 m.naver.com###nbp_da_img
 m.naver.com###_MM_WRAP_nmap_news_1
 m.naver.com###_MM_WRAP_nmap_news_2
-m.naver.com###_MM_FLICK_FIRST_PANEL > DIV.wrap.id_news > DIV.grid1_wrap.news_wrap.brick-house > DIV.brick-vowel:first-child > DIV.grid1.grid_ad:nth-child(2)
-m.naver.com###_MM_FLICK_FIRST_PANEL > DIV.wrap.id_news > DIV.grid1_wrap.news_wrap.brick-house > DIV.brick-vowel:first-child > DIV.grid1.grid_ad:nth-child(3)
-m.naver.com###_MM_FLICK_FIRST_PANEL > DIV.wrap.id_news > DIV.grid1_wrap.news_wrap.brick-house > DIV.brick-vowel:first-child > DIV.grid1.id_uio_cd_fbanner:last-child
 !---------!
 ||ams.rmcnmv.naver.com^
 ||apis.naver.com/rmcnmv/rmcvts/vts/trace/
