@@ -1,8 +1,9 @@
-! naver.com
+! m.naver.com
 !-------------------------------------------------------------------------------!
 m.naver.com###nbp_da_img
 m.naver.com###_MM_WRAP_nmap_news_1
 m.naver.com###_MM_WRAP_nmap_news_2
+m.naver.com###MM_NEWS_CHANNEL_PROMOTION_TOP_BANNER
 !---------!
 ||ams.rmcnmv.naver.com^
 ||apis.naver.com/rmcnmv/rmcvts/vts/trace/
@@ -10,15 +11,12 @@ m.naver.com###_MM_WRAP_nmap_news_2
 ||videost.nmv.naver.com/pt.html^
 apis.naver.com/rmcnmv/rmcams/item^
 m.naver.com##.cb_link
-m.news.naver.com##.media_end_linked
-m.news.naver.com##.media_journalistcard, ._my_feed_extension_wrapper
 m.search.naver.com##section.sp_power
 msearch.shopping.naver.com###_power_link
 msearch.shopping.naver.com##.sr_banner
 naver.com##div.end_ad_bottom
 naver.com##div.media_end_linked
 naver.com##div.media_journalistcard._my_feed_extension_wrapper
-news.naver.com##.pop_cont, ._factcheck_msg
 search.shopping.naver.com##.ad
 ! news.naver.com
 !-------------------------------------------------------------------------------!
@@ -28,6 +26,9 @@ m.news.naver.com###ct > DIV.responsive_wrap:last-child > DIV.responsive_col1:fir
 m.blog.naver.com###POST_VIEW_BOTTOM_WEB
 m.news.naver.com#%#window.addEventListener("load",function(){document.querySelectorAll("a[href*='likeRankingRead.nhn']").forEach(function(a){a.href=a.href.replace("likeRankingRead.nhn","read.nhn")})});
 m.news.naver.com#%#window.addEventListener("load",function(){document.querySelectorAll("a[href*='shareRankingRead.nhn']").forEach(function(a){a.href=a.href.replace("shareRankingRead.nhn","read.nhn")})});
+m.news.naver.com##.media_end_linked
+m.news.naver.com##.media_journalistcard, ._my_feed_extension_wrapper
+news.naver.com##.pop_cont, ._factcheck_msg
 ! ilbe.com
 !-------------------------------------------------------------------------------!
 ilbe.com$$script[tag-content="mobonDivBanner_"][max-length="8000"]
