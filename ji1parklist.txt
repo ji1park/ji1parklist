@@ -57,7 +57,6 @@ dcinside.com$$script[tag-content="광고차단"]
 tvwang2.com,tvkim3.com###apno
 tvwang2.com,tvkim3.com###pobg
 tvwang2.com##mab
-tvwang2.com,tvkim3.com##ban
 tvkim3.com##poba
 tvkim3.com##section:last-child > div.chat:nth-child(3) > div.bod:last-child > div.ban:last-child
 tvkim3.com##section:nth-child(13) > div.chan:first-child > div.bod:last-child > div.ban:last-child
@@ -66,6 +65,7 @@ tvkim3.com##section:nth-child(13) > div.chan:first-child > div.bod:last-child > 
 tvkim3.com##section:nth-child(13) > div.chan:first-child > div.bod:last-child > a.ban:nth-child(2)
 tvkim3.com##section:nth-child(13) > div.chan:first-child > div.bod:last-child > a.ban:first-child
 ||img.tvkim3.com/banner/
+tvwang3.com,tvkim3.com##div[class^="ban"]
 ! etcetra
 !-------------------------------------------------------------------------------!
 imaeil.com##TABLE:nth-child(5) > TBODY > TR:nth-child(2) > TD > TABLE > TBODY > TR:last-child > TD:first-child > DIV:first-child > IFRAME
