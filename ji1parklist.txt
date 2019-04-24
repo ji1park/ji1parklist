@@ -54,18 +54,8 @@ dcinside.com$$script[tag-content="광고차단"]
 */api/_ad_search_link.php$match-case
 ! tvwang, tvkim
 !-------------------------------------------------------------------------------!
-tvwang2.com,tvkim3.com###apno
-tvwang2.com,tvkim3.com###pobg
-tvwang2.com##mab
-tvkim3.com##poba
-tvkim3.com##section:last-child > div.chat:nth-child(3) > div.bod:last-child > div.ban:last-child
-tvkim3.com##section:nth-child(13) > div.chan:first-child > div.bod:last-child > div.ban:last-child
-tvkim3.com##section:nth-child(13) > div.chan:first-child > div.bod:last-child > a.ban:nth-child(4)
-tvkim3.com##section:nth-child(13) > div.chan:first-child > div.bod:last-child > a.ban:nth-child(3)
-tvkim3.com##section:nth-child(13) > div.chan:first-child > div.bod:last-child > a.ban:nth-child(2)
-tvkim3.com##section:nth-child(13) > div.chan:first-child > div.bod:last-child > a.ban:first-child
-||img.tvkim3.com/banner/
 tvwang4.com,tvkim4.com##div[class^="ban"]
+tvwang4.com,tvkim4.com##div[class^="tban "]
 ! etcetra
 !-------------------------------------------------------------------------------!
 imaeil.com##TABLE:nth-child(5) > TBODY > TR:nth-child(2) > TD > TABLE > TBODY > TR:last-child > TD:first-child > DIV:first-child > IFRAME
