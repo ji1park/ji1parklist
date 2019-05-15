@@ -54,9 +54,9 @@ dcinside.com$$script[tag-content="광고차단"]
 */api/_ad_search_link.php$match-case
 ! tvwang, tvkim
 !-------------------------------------------------------------------------------!
-tvkim4.com,tvwang4.com##.bab
-tvkim4.com,tvwang4.com##.ban
-live.enc0867live.com,tvkim4.com##.tban
+tvkim.shop,tvwang.shop##.bab
+tvkim.shop,tvwang.shop##.ban
+live.enc0867live.com,tvkim.shop##.tban
 ! etcetra
 !-------------------------------------------------------------------------------!
 imaeil.com##TABLE:nth-child(5) > TBODY > TR:nth-child(2) > TD > TABLE > TBODY > TR:last-child > TD:first-child > DIV:first-child > IFRAME
@@ -67,3 +67,5 @@ m.fmkorea.com###bd_189545458_0 > div.bd_lst_wrp:last-child > div.fm_best_widget.
 m.cafe.daum.net#%#window.addEventListener("load",function(){for(var b=document.querySelectorAll("a[href]"),c=b.length;c--;){var d=b[c],a=d.getAttribute("href");a&&(a+="?q=",d.setAttribute("href",a))}});
 ||youav.com/nb/bnl.php
 m.inven.co.kr###topslideAd
+m1.ani119tv.com,feelani.com,coolani.net##div[class=pane_mobile_bottom]
+m1.ani119tv.com,feelani.com,coolani.net##div[class=each_adv_center]
