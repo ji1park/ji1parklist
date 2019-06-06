@@ -57,9 +57,9 @@ dcinside.com$$script[tag-content="광고차단"]
 */api/_ad_search_link.php$match-case
 ! tvwang, tvkim
 !-------------------------------------------------------------------------------!
-tvkim.biz,tvwang.biz##.bab
-tvkim.biz,tvwang.biz##.ban
-live.enc0867live.com,tvkim.biz##.tban
+tvkim-new.com,tvwang.biz##.bab
+tvkim-new.com,tvwang.biz##.ban
+live.enc0867live.com,tvkim-new.com##.tban
 ! etcetra
 !-------------------------------------------------------------------------------!
 imaeil.com##TABLE:nth-child(5) > TBODY > TR:nth-child(2) > TD > TABLE > TBODY > TR:last-child > TD:first-child > DIV:first-child > IFRAME
