@@ -73,3 +73,4 @@ m.cafe.daum.net#%#window.addEventListener("load",function(){for(var b=document.q
 m.inven.co.kr###topslideAd
 m1.ani119tv.com,feelani.com,coolani.net##div[class=pane_mobile_bottom]
 m1.ani119tv.com,feelani.com,coolani.net##div[class=each_adv_center]
+wp.yogiyo.co.kr$$script[tag-content="window.location.replace"]
