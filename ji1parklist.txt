@@ -58,8 +58,8 @@ dcinside.com$$script[tag-content="광고차단"]
 */api/_ad_search_link.php$match-case
 ! tvwang, tvkim
 !-------------------------------------------------------------------------------!
-tvkim-s.com,tvwang.biz##.bab
-tvkim-s.com,tvwang.biz##.ban
+tvkim-s.com,tvwang-s.com##.bab
+tvkim-s.com,tvwang-s.com##.ban
 live.enc0867live.com,tvkim-s.com##.tban
 ! etcetra
 !-------------------------------------------------------------------------------!
