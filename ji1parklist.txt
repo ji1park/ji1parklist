@@ -40,6 +40,7 @@ ilbe.com##li[id^="sponser_ad_0"]
 m.ilbe.com###_info_side_menu > div > section.nav.nav-category:nth-child(5) > ul.nav-wrap:last-child > li:first-child
 ilbe.com##li[id=sponser_ad]
 ilbe.com##article[class=cutin-banner]
+m.ilbe.com###mob-main-banner-top
 !-------------------------------------------------------------------------------!
 ||cauly.co.kr^$third-party
 ||ad.cauly.co.kr^$third-party
