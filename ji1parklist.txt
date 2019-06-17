@@ -74,3 +74,4 @@ m.inven.co.kr###topslideAd
 m1.ani119tv.com,feelani.com,coolani.net##div[class=pane_mobile_bottom]
 m1.ani119tv.com,feelani.com,coolani.net##div[class=each_adv_center]
 wp.yogiyo.co.kr$$script[tag-content="window.location.replace"]
+m.fmkorea.com###bd_189545458_0 > div.bd_lst_wrp:last-child > div.fm_best_widget._bd_mobile:nth-child(5) > ul > li:nth-child(3)
