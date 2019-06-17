@@ -61,6 +61,8 @@ dcinside.com$$script[tag-content="광고차단"]
 tvkim-s.com,tvwang-s.com##.bab
 tvkim-s.com,tvwang-s.com##.ban
 live.enc0867live.com,tvkim-s.com##.tban
+m1.ani119tv.com,feelani.com,coolani.net##div[class=pane_mobile_bottom]
+m1.ani119tv.com,feelani.com,coolani.net##div[class=each_adv_center]
 ! fmk
 !-------------------------------------------------------------------------------!
 ||fmkorea.com/_call/background_nickname.php
@@ -73,7 +75,4 @@ wowhead.com###video-alternate-position
 m.cafe.daum.net#%#window.addEventListener("load",function(){for(var b=document.querySelectorAll("a[href]"),c=b.length;c--;){var d=b[c],a=d.getAttribute("href");a&&(a+="?q=",d.setAttribute("href",a))}});
 ||youav.com/nb/bnl.php
 m.inven.co.kr###topslideAd
-m1.ani119tv.com,feelani.com,coolani.net##div[class=pane_mobile_bottom]
-m1.ani119tv.com,feelani.com,coolani.net##div[class=each_adv_center]
 wp.yogiyo.co.kr$$script[tag-content="window.location.replace"]
-m.fmkorea.com##[style^="position:relative;height:78px;"]
