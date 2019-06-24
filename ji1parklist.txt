@@ -58,20 +58,20 @@ dcinside.com$$script[tag-content="광고차단"]
 */api/_ad_search_link.php$match-case
 ! tvwang, tvkim
 !-------------------------------------------------------------------------------!
-tvkim-d.com,tvwang-d.com##.bab
-tvkim-d.com,tvwang-d.com##.ban
-live.enc0867live.com,tvkim-s.com##.tban
-m1.ani119tv.com,feelani.com,coolani.net##div[class=pane_mobile_bottom]
-m1.ani119tv.com,feelani.com,coolani.net##div[class=each_adv_center]
+##.bab
+##.ban
+##.tban
+##.pane_mobile_bottom
+##.each_adv_center
 ! fmk
 !-------------------------------------------------------------------------------!
 ||fmkorea.com/_call/background_nickname.php
 m.fmkorea.com##[style^="position:relative;height:78px;"]
 ! nmwk
 !-------------------------------------------------------------------------------!
-namu.wiki##div[class="adsense"]
+namu.wiki##.adsense
 namu.wiki##iframe[id="ad-powerlink^"]
-namu.wiki##div[class="ad-bottom"]
+namu.wiki##.ad-bottom
 ! etcetra
 !-------------------------------------------------------------------------------!
 imaeil.com##TABLE:nth-child(5) > TBODY > TR:nth-child(2) > TD > TABLE > TBODY > TR:last-child > TD:first-child > DIV:first-child > IFRAME
