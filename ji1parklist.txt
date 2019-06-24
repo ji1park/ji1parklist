@@ -36,9 +36,9 @@ ilbe.com$$script[tag-content="mobonDivBanner_"][max-length="8000"]
 ilbe.com##div[style^="width:100%; text-align:center;padding:0;"]
 ilbe.com##a[href^="https://toon.at/donate/ilbe"]
 ilbe.com##li[style^="width:100%;height:100px;margin:auto;padding:0;text-align:center;display:inline-block;"]
-ilbe.com##li[id^="sponser_ad_0"]
+ilbe.com###sponser_ad_0
 m.ilbe.com###_info_side_menu > div > section.nav.nav-category:nth-child(5) > ul.nav-wrap:last-child > li:first-child
-ilbe.com##li[id=sponser_ad]
+ilbe.com###sponser_ad
 ilbe.com##article[class=cutin-banner]
 m.ilbe.com###mob-main-banner-top
 !-------------------------------------------------------------------------------!
