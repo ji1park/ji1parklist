@@ -61,6 +61,7 @@ dcinside.com$$script[tag-content="광고차단"]
 ##.bab
 ##.ban
 ##.tban
+##.mess
 ##.pane_mobile_bottom
 ##.each_adv_center
 ! fmk
@@ -70,7 +71,7 @@ m.fmkorea.com##[style^="position:relative;height:78px;"]
 ! nmwk
 !-------------------------------------------------------------------------------!
 namu.wiki##.adsense
-namu.wiki##iframe[id="ad-powerlink^"]
+namu.wiki###ad-powerlink
 namu.wiki##.ad-bottom
 ! etcetra
 !-------------------------------------------------------------------------------!
