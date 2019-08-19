@@ -56,10 +56,11 @@ m.dcinside.com###set_comment_bottom
 m.dcinside.com###js-popadblock > DIV.adblock-inner
 dcinside.com$$script[tag-content="광고차단"]
 */api/_ad_search_link.php$match-case
-! dcnewsj comment
+! dcnewsj
 !-------------------------------------------------------------------------------!
 @@//cmt.dcnewsj.joins.com
 @@//nstatic.dcinside.com/ad/js/jquery-3.1.1.min.js
+##.ad_template
 ! tvwang, tvkim
 !-------------------------------------------------------------------------------!
 ##.bab
