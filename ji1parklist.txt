@@ -87,4 +87,4 @@ wowhead.com###video-alternate-position
 m.cafe.daum.net#%#window.addEventListener("load",function(){for(var b=document.querySelectorAll("a[href]"),c=b.length;c--;){var d=b[c],a=d.getAttribute("href");a&&(a+="?q=",d.setAttribute("href",a))}});
 ||youav.com/nb/bnl.php
 m.inven.co.kr###topslideAd
-wp.yogiyo.co.kr$$script[tag-content="window.location.replace"]
+dhkorea.wpengine.com$$script[tag-content="window.location.replace"]
