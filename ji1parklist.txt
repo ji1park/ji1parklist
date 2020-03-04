@@ -88,3 +88,4 @@ m.cafe.daum.net#%#window.addEventListener("load",function(){for(var b=document.q
 ||youav.com/nb/bnl.php
 m.inven.co.kr###topslideAd
 !----dhkorea.wpengine.com$$script[tag-content="window.location.replace"]---!
+##.widget-box
