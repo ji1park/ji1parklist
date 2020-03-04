@@ -89,3 +89,4 @@ m.cafe.daum.net#%#window.addEventListener("load",function(){for(var b=document.q
 m.inven.co.kr###topslideAd
 !----dhkorea.wpengine.com$$script[tag-content="window.location.replace"]---!
 ##.widget-box
+##.ad-banner-widget
