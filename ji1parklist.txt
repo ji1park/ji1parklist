@@ -79,6 +79,13 @@ m.fmkorea.com##[style^="position:relative;height:78px;"]
 namu.wiki##.adsense
 namu.wiki###ad-powerlink
 namu.wiki##.ad-bottom
+! mana
+##.widget-box
+##.ad-banner-widget
+! krnz
+!-------------------------------------------------------------------------------!
+##.main-box
+koreanz.fun##table[width^="100%"]
 ! etcetra
 !-------------------------------------------------------------------------------!
 imaeil.com##TABLE:nth-child(5) > TBODY > TR:nth-child(2) > TD > TABLE > TBODY > TR:last-child > TD:first-child > DIV:first-child > IFRAME
@@ -88,5 +95,3 @@ m.cafe.daum.net#%#window.addEventListener("load",function(){for(var b=document.q
 ||youav.com/nb/bnl.php
 m.inven.co.kr###topslideAd
 !----dhkorea.wpengine.com$$script[tag-content="window.location.replace"]---!
-##.widget-box
-##.ad-banner-widget
