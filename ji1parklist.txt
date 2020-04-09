@@ -92,6 +92,9 @@ koreanz.fun##table[width^="100%"]
 ###instant_ad
 ##.ad-adstir
 ###js-adstir-300x250
+! yahoo
+!-------------------------------------------------------------------------------!
+##.bnrMod
 ! etcetra
 !-------------------------------------------------------------------------------!
 imaeil.com##TABLE:nth-child(5) > TBODY > TR:nth-child(2) > TD > TABLE > TBODY > TR:last-child > TD:first-child > DIV:first-child > IFRAME
