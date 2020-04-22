@@ -92,6 +92,7 @@ koreanz.fun##table[width^="100%"]
 ###instant_ad
 ##.ad-adstir
 ###js-adstir-300x250
+###float-bnr
 ! yahoo
 !-------------------------------------------------------------------------------!
 ##.bnrMod
