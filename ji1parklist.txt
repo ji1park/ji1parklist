@@ -57,6 +57,7 @@ m.dcinside.com###js-popadblock > DIV.adblock-inner
 dcinside.com$$script[tag-content="광고차단"]
 */api/_ad_search_link.php$match-case
 ##.adv-groupno
+dcinside.com#%#window.addEventListener("load",function() {var els = document.querySelectorAll('.code img'); for (var i=0; i < els.length; i++) {     els[i].setAttribute("style", "width:180px;"); }})
 ! dcnewsj
 !-------------------------------------------------------------------------------!
 @@//cmt.dcnewsj.joins.com
@@ -94,6 +95,10 @@ koreanz.fun##table[width^="100%"]
 ##.ad-adstir
 ###js-adstir-300x250
 ###float-bnr
+##.adv-groupno
+##.ad ad_fix
+##.card_content first js-cardview_ad-320x180 center
+##.card_content center
 ! yahoo
 !-------------------------------------------------------------------------------!
 ##.bnrMod
