@@ -63,6 +63,7 @@ dcinside.com#%#window.addEventListener("load",function() {var els = document.que
 @@//cmt.dcnewsj.joins.com
 @@//nstatic.dcinside.com/ad/js/jquery-3.1.1.min.js
 ##.ad_template
+dcnewsj.joins.com###content > div.ad.ad_fix:last-child
 ! tvwang, tvkim
 !-------------------------------------------------------------------------------!
 ##.bab
