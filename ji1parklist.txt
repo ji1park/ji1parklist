@@ -103,6 +103,16 @@ koreanz.fun##table[width^="100%"]
 ! yahoo
 !-------------------------------------------------------------------------------!
 ##.bnrMod
+! sammy
+!-------------------------------------------------------------------------------!
+||dr9xthplobr1x.cloudfront.net^$app=com.sec.android.daemonapp
+||media.bidr.io^$app=com.samsung.android.game.gamehome
+||api.glb.samsung-gamelauncher.com^$app=com.samsung.android.game.gamehome
+||dvm5qfkmpeyux.cloudfront.net^$app=com.samsung.android.game.gamehome
+||content.samsungknowledge.com^
+||img.youtube.com^$app=com.sec.android.app.samsungapps
+||img.samsungapps.com/display^$app=com.sec.android.app.samsungapps
+||dhgywazgeek0d.cloudfront.net^$app=com.samsung.android.app.spage
 ! etcetra
 !-------------------------------------------------------------------------------!
 imaeil.com##TABLE:nth-child(5) > TBODY > TR:nth-child(2) > TD > TABLE > TBODY > TR:last-child > TD:first-child > DIV:first-child > IFRAME
