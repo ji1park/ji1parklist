@@ -103,6 +103,8 @@ koreanz.fun##table[width^="100%"]
 ! yahoo
 !-------------------------------------------------------------------------------!
 ##.bnrMod
+news.yahoo.co.jp###contents > div.sc-dyGzUR.NLTdH:first-child > aside.sc-hGoxap.eqDgvj:nth-child(6)
+news.yahoo.co.jp###contents > div.sc-feLwoP.ipRYhe:first-child > div.sc-bTXUnW.iPXsa:nth-child(2)
 ! sammy
 !-------------------------------------------------------------------------------!
 ||dr9xthplobr1x.cloudfront.net^$app=com.sec.android.daemonapp
