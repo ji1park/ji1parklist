@@ -126,3 +126,5 @@ m.inven.co.kr###topslideAd
 !----dhkorea.wpengine.com$$script[tag-content="window.location.replace"]---!
 ##.col-lg-12
 ohli24.com##.insty
+m.megabox.co.kr##div.container.event-detail-cont:nth-child(5) > article.event-html-wrap:nth-child(2) > div.event-html-area > div:nth-child(3)
+m.megabox.co.kr##[style^height:480px; padding-left:100px; padding-right:140px;"]
