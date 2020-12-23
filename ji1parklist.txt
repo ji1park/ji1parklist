@@ -58,6 +58,7 @@ dcinside.com$$script[tag-content="광고차단"]
 */api/_ad_search_link.php$match-case
 ##.adv-groupno
 dcinside.com#%#window.addEventListener("load",function() {var els = document.querySelectorAll('div[class^=code] img'); for (var i=0; i < els.length; i++) {     els[i].setAttribute("style", "width:180px;"); }})
+dcinside.com$$script[tag-content="ani_lines"]
 ! dcnewsj
 !-------------------------------------------------------------------------------!
 @@//cmt.dcnewsj.joins.com
