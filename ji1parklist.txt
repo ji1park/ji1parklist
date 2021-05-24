@@ -118,7 +118,7 @@ news.yahoo.co.jp###contents > div.sc-feLwoP.ipRYhe:first-child > div.sc-bTXUnW.i
 ||dhgywazgeek0d.cloudfront.net^$app=com.samsung.android.app.spage
 ! jtbc
 !-------------------------------------------------------------------------------!
-||mnews.jtbc.joins.com/_js/article_module.js$domain=mnews.jtbc.joins.com
+||mnews.jtbc.joins.com/_js/news_component.js$domain=mnews.jtbc.joins.com
 ! etcetra
 !-------------------------------------------------------------------------------!
 imaeil.com##TABLE:nth-child(5) > TBODY > TR:nth-child(2) > TD > TABLE > TBODY > TR:last-child > TD:first-child > DIV:first-child > IFRAME
