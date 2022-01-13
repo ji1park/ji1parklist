@@ -135,3 +135,4 @@ m.megabox.co.kr##div.container.event-detail-cont:nth-child(5) > article.event-ht
 m.megabox.co.kr##[style^height:480px; padding-left:100px; padding-right:140px;"]
 ##.textwidget
 namu.wiki##.pl
+heye.kr###div[id^="banner_"]
