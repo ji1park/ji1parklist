@@ -137,3 +137,4 @@ m.megabox.co.kr##[style^height:480px; padding-left:100px; padding-right:140px;"]
 namu.wiki##.pl
 heye.kr###board_mtop
 heye.kr###board_detail_mvote
+comic.naver.com##li[class^="ppl_story"]
