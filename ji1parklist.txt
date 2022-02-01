@@ -99,11 +99,10 @@ koreanz.fun##table[width^="100%"]
 5ch.net##div[class^="roninform_wrap"]
 5ch.net##ul[class^="socialwrap"]
 5ch.net##div[id^="js-subback_top_"]
-! yahoo
+! yahoo japan
 !-------------------------------------------------------------------------------!
-##.bnrMod
-news.yahoo.co.jp###contents > div.sc-dyGzUR.NLTdH:first-child > aside.sc-hGoxap.eqDgvj:nth-child(6)
-news.yahoo.co.jp###contents > div.sc-feLwoP.ipRYhe:first-child > div.sc-bTXUnW.iPXsa:nth-child(2)
+news.yahoo.co.jp##a[href^="https://app.adjust.com/ppv0rxm"]
+news.yahoo.co.jp##a[href^="https://app.adjust.com/ah3wy9w"]
 ! sammy
 !-------------------------------------------------------------------------------!
 ||dr9xthplobr1x.cloudfront.net^$app=com.sec.android.daemonapp
