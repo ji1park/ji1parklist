@@ -99,6 +99,8 @@ koreanz.fun##table[width^="100%"]
 5ch.net##div[class^="roninform_wrap"]
 5ch.net##ul[class^="socialwrap"]
 5ch.net##div[id^="js-subback_top_"]
+5ch.net##div[id^="js-adstir-"]
+5ch.net##div[class^="overlay_wrapper"]
 ! yahoo japan
 !-------------------------------------------------------------------------------!
 news.yahoo.co.jp##a[href^="https://app.adjust.com/ppv0rxm"]
