@@ -101,6 +101,11 @@ koreanz.fun##table[width^="100%"]
 5ch.net##div[id^="js-subback_top_"]
 5ch.net##div[id^="js-adstir-"]
 5ch.net##div[class^="overlay_wrapper"]
+5ch.net##div[id^="float-bnr"]
+5ch.net##div[class$="js-ads-content-top_news_bottom"]
+5ch.net##div[class$="flex_center"]
+5ch.net##li[class$="flex_center"]
+5ch.net##div[id^="bbspink_bbsmenu"]
 ! yahoo japan
 !-------------------------------------------------------------------------------!
 news.yahoo.co.jp##a[href^="https://app.adjust.com/ppv0rxm"]
