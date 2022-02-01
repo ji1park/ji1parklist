@@ -93,15 +93,12 @@ namu.wiki##.ad-bottom
 koreanz.fun##table[width^="100%"]
 ! 5ch
 !-------------------------------------------------------------------------------!
-###js-bottom-ad-300x250
-###instant_ad
-##.ad-adstir
-###js-adstir-300x250
-###float-bnr
-##.adv-groupno
-##.ad ad_fix
-##.card_content first js-cardview_ad-320x180 center
-##.card_content center
+5ch.net##div[id^="js-bottom-ad-"]
+5ch.net##div[class^="sproutad_frame"]
+5ch.net##div[id^="js-last_comment_ad"]
+5ch.net##div[class^="roninform_wrap"]
+5ch.net##ul[class^="socialwrap"]
+5ch.net##div[id^="js-subback_top_"]
 ! yahoo
 !-------------------------------------------------------------------------------!
 ##.bnrMod
@@ -138,3 +135,6 @@ namu.wiki##.pl
 heye.kr###board_mtop
 heye.kr###board_detail_mvote
 comic.naver.com##li[class^="ppl_story"]
+openads.co.kr##div[class^="wrap-img-banner"]
+@@||openads.co.kr/openads^$domain=openads.co.kr
+@@||openads-real.s3.amazonaws.com^$domain=openads.co.kr,third-party
