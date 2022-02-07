@@ -108,16 +108,6 @@ koreanz.fun##table[width^="100%"]
 !-------------------------------------------------------------------------------!
 news.yahoo.co.jp##a[href^="https://app.adjust.com/ppv0rxm"]
 news.yahoo.co.jp##a[href^="https://app.adjust.com/ah3wy9w"]
-! sammy
-!-------------------------------------------------------------------------------!
-||dr9xthplobr1x.cloudfront.net^$app=com.sec.android.daemonapp
-||media.bidr.io^$app=com.samsung.android.game.gamehome
-||api.glb.samsung-gamelauncher.com^$app=com.samsung.android.game.gamehome
-||dvm5qfkmpeyux.cloudfront.net^$app=com.samsung.android.game.gamehome
-||content.samsungknowledge.com^
-||img.youtube.com^$app=com.sec.android.app.samsungapps
-||img.samsungapps.com/display^$app=com.sec.android.app.samsungapps
-||dhgywazgeek0d.cloudfront.net^$app=com.samsung.android.app.spage
 ! jtbc
 !-------------------------------------------------------------------------------!
 ||mnews.jtbc.joins.com/_js/news_component.js$domain=mnews.jtbc.joins.com
