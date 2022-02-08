@@ -1,11 +1,12 @@
-! m.naver.com
+! naver.com
 !-------------------------------------------------------------------------------!
 m.naver.com###nbp_da_img
 m.naver.com###_MM_WRAP_nmap_news_1
 m.naver.com###_MM_WRAP_nmap_news_2
 m.naver.com###MM_NEWS_CHANNEL_PROMOTION_TOP_BANNER
 m.naver.com###_MM_FLICK_FIRST_PANEL > div.wrap.id_news > div.grid1_wrap.news_wrap.brick-house > div.brick-vowel:first-child > div.grid1.id_cui_urgent:first-child
-!---------!
+naver.com##div[class^="grid1 id_cui_banner_nextmain"]
+naver.com##div[id^="MM_POPUP_WRAPPER"]
 ||ams.rmcnmv.naver.com^
 ||apis.naver.com/rmcnmv/rmcvts/vts/trace/
 ||serviceapi.rmcnmv.naver.com/etc/pc.nhn^
