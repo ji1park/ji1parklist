@@ -60,6 +60,7 @@ dcinside.com#%#window.addEventListener("load",function() {var els = document.que
 @@||advimg.ad-mapps.com/sdk/M_PLUS/JS/common/jquery-1.11.3.min.js$domain=m.dcinside.com,third-party
 ###div_adnmore_area
 dcinside.com#%#window.addEventListener("load",function() {var els = document.querySelectorAll('ul[class^=who-lst]'); for (var i=0; i < els.length; i++) {     els[i].setAttribute("style", "height:67px;"); }})
+dcinside.com##li[class^="adv-inner"]
 ! dcnewsj
 !-------------------------------------------------------------------------------!
 @@//cmt.dcnewsj.joins.com
