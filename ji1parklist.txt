@@ -138,3 +138,5 @@ openads.co.kr##div[class^="wrap-img-banner"]
 suto.co.kr#%#window.addEventListener("load",function(){for(var n=document.getElementsByTagName("*"),e=0;e<n.length;++e)n[e].oncontextmenu=null});
 ||www.suto.co.kr/img/no_copy_bg.png
 yeskey.or.kr##div[class^="yk-loading"]
+mygoyang.com##div[class^="body-banner-full"]
+joins.com##div[class^="ab_ad336"]
