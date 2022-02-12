@@ -140,3 +140,4 @@ suto.co.kr#%#window.addEventListener("load",function(){for(var n=document.getEle
 yeskey.or.kr##div[class^="yk-loading"]
 mygoyang.com##div[class^="body-banner-full"]
 joins.com##div[class^="ab_ad336"]
+joins.com##div[class^="promotion_banner100"]
