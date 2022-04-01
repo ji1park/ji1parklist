@@ -20,6 +20,7 @@ naver.com##div.end_ad_bottom
 naver.com##div.media_end_linked
 naver.com##div.media_journalistcard._my_feed_extension_wrapper
 search.shopping.naver.com##.ad
+||mm.pstatic.net/js/c/jindo_20170928.min.js
 ! news.naver.com
 !-------------------------------------------------------------------------------!
 m.news.naver.com###adw_da
@@ -61,6 +62,8 @@ dcinside.com#%#window.addEventListener("load",function() {var els = document.que
 ###div_adnmore_area
 dcinside.com#%#window.addEventListener("load",function() {var els = document.querySelectorAll('ul[class^=who-lst]'); for (var i=0; i < els.length; i++) {     els[i].setAttribute("style", "height:67px;"); }})
 dcinside.com##li[class^="adv-inner"]
+dcinside.com#%#window.addEventListener("load",function() {var els = document.querySelectorAll('ul[class^=capcha-code-lst]'); for (var i=0; i < els.length; i++) {     els[i].setAttribute("style", "height:80px;"); }})
+dcinside.com#%#window.addEventListener("load",function() {var els = document.querySelectorAll('div[class^=nickpwd]'); for (var i=0; i < els.length; i++) {     els[i].setAttribute("style", "height:72px;"); }})
 ! dcnewsj
 !-------------------------------------------------------------------------------!
 @@//cmt.dcnewsj.joins.com
@@ -141,3 +144,4 @@ yeskey.or.kr##div[class^="yk-loading"]
 mygoyang.com##div[class^="body-banner-full"]
 joins.com##div[class^="ab_ad336"]
 joins.com##div[class^="promotion_banner100"]
+cocstorage.com$$div[tag-content="adsbygoogle"][max-length="300"]
