@@ -20,7 +20,7 @@ naver.com##div.end_ad_bottom
 naver.com##div.media_end_linked
 naver.com##div.media_journalistcard._my_feed_extension_wrapper
 search.shopping.naver.com##.ad
-||mm.pstatic.net/js/c/jindo_20170928.min.js
+||mm.pstatic.net/js/c/jindo_20170928.min.js^
 ! news.naver.com
 !-------------------------------------------------------------------------------!
 m.news.naver.com###adw_da
