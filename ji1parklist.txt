@@ -144,7 +144,5 @@ mygoyang.com##div[class^="body-banner-full"]
 joins.com##div[class^="ab_ad336"]
 joins.com##div[class^="promotion_banner100"]
 cocstorage.com$$div[tag-content="adsbygoogle"][max-length="300"]
-noonoo.tv##div[class^="cast"]
-noonoo.tv##div[class^="episode"]
-noonoo.tv##ul[class^="episode-content-item"]
 dcinside.com##ul[class^="all-comment-lst"]
+tv4.wiki##.video-long-banner
