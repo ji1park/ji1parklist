@@ -145,4 +145,4 @@ joins.com##div[class^="ab_ad336"]
 joins.com##div[class^="promotion_banner100"]
 cocstorage.com$$div[tag-content="adsbygoogle"][max-length="300"]
 dcinside.com##ul[class^="all-comment-lst"]
-tv4.wiki##.video-long-banner
+##.video-long-banner
