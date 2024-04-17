@@ -109,6 +109,7 @@ koreanz.fun##table[width^="100%"]
 5ch.net##div[class$="flex_center"]
 5ch.net##li[class$="flex_center"]
 5ch.net##div[id^="bbspink_bbsmenu"]
+5ch.net##div[class^="is5x7as is_black"]
 ! yahoo japan
 !-------------------------------------------------------------------------------!
 news.yahoo.co.jp##a[href^="https://app.adjust.com/ppv0rxm"]
